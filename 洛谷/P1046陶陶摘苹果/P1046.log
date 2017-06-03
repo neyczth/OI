@@ -1,0 +1,26 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6300 64-bit) (preloaded format=xelatex 2017.5.12)  15 MAY 2017 15:31
+entering extended mode
+**./P1046.cpp
+(P1046.cpp
+LaTeX2e <2017-04-15>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 /
+     /洛谷 P1046 陶陶摘苹果
+? x
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 427841
+ 176 string characters out of 3152544
+ 60634 words of memory out of 3000000
+ 4057 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 5i,0n,4p,32b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
